@@ -1,0 +1,165 @@
+{
+  "generatedFrom": "chamtax.com calcTakeHome() engine",
+  "referenceScenario": {
+    "description": "US lottery lump-sum prize equivalent to roughly 1,500 억원 (~$100M USD at ~1,490 KRW/USD), taxed as a non-resident alien under IRS withholding, then taxed again (or credited) under the resident's home-country rules.",
+    "note": "Percentages are ratios and are not sensitive to the exact reference amount, except where a country's tax is bracketed/progressive."
+  },
+  "methodology": "US federal nonresident alien withholding is a flat 30% under IRC §871(a) unless reduced by an income tax treaty. Each country's 'additional tax' reflects that country's own tax treatment of foreign lottery/incidental income, after applying a Foreign Tax Credit (FTC) for US tax already withheld where the country's treaty and domestic law allow it. See each country's chamtax.com detail page for citations.",
+  "confidenceLevels": {
+    "verified": "Rate is based on an identifiable statute, treaty article, or official tax authority guidance.",
+    "verified_treaty_suspended": "Rate is based on treaty/statute, but the underlying tax treaty is currently suspended (e.g. Russia) — treat with extra caution.",
+    "approximate": "Rate is a reasonable approximation from available secondary sources, not a primary legal citation.",
+    "unverified_estimate": "No authoritative source was found; this is a best-effort estimate and should not be relied on for filing."
+  },
+  "lastUpdated": "2026-08-05",
+  "source": "https://chamtax.com",
+  "countries": [
+    {
+      "code": "kr", "name": "South Korea", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Korea additional tax (FTC applied) -16.5%",
+      "effectiveTakeHomePct": 53.5, "effectiveTaxPct": 46.5,
+      "detailPage": "https://chamtax.com/korea-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "us", "name": "United States", "confidence": "verified",
+      "usFederalTax": "US Federal Tax -37%",
+      "homeCountryTax": "Average State Tax -4.72%",
+      "effectiveTakeHomePct": 58.3, "effectiveTaxPct": 41.7,
+      "detailPage": "https://chamtax.com"
+    },
+    {
+      "code": "vn", "name": "Vietnam", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Vietnam additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/vietnam-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "cn", "name": "China", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "China additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/china-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "in", "name": "India", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "India additional tax (FTC applied) -9.0%",
+      "effectiveTakeHomePct": 61, "effectiveTaxPct": 39,
+      "detailPage": "https://chamtax.com/india-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "id", "name": "Indonesia", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Indonesia additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/indonesia-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "ph", "name": "Philippines", "confidence": "approximate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Philippines additional tax (FTC applied, approximate) -5.0%",
+      "effectiveTakeHomePct": 65, "effectiveTaxPct": 35,
+      "detailPage": "https://chamtax.com/philippines-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "th", "name": "Thailand", "confidence": "unverified_estimate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Thailand additional tax (FTC applied, unverified estimate) -5.0%",
+      "effectiveTakeHomePct": 65, "effectiveTaxPct": 35,
+      "detailPage": "https://chamtax.com/thailand-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "jp", "name": "Japan", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Japan additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/japan-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "ru", "name": "Russia", "confidence": "verified_treaty_suspended",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Russia additional tax (FTC believed unavailable, treaty suspended) -22.0%",
+      "effectiveTakeHomePct": 48, "effectiveTaxPct": 52,
+      "detailPage": "https://chamtax.com/russia-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "np", "name": "Nepal", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Nepal additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/nepal-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "lk", "name": "Sri Lanka", "confidence": "approximate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Sri Lanka additional tax (FTC applied, unverified estimate) -6.0%",
+      "effectiveTakeHomePct": 64, "effectiveTaxPct": 36,
+      "detailPage": "https://chamtax.com/srilanka-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "uz", "name": "Uzbekistan", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Uzbekistan additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/uzbekistan-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "kz", "name": "Kazakhstan", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Kazakhstan additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/kazakhstan-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "kg", "name": "Kyrgyzstan", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Kyrgyzstan additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/kyrgyzstan-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "mm", "name": "Myanmar", "confidence": "approximate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Myanmar additional tax (FTC applied, approximate) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/myanmar-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "bd", "name": "Bangladesh", "confidence": "verified",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Bangladesh additional tax (FTC applied) — offset by tax credit",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/bangladesh-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "pk", "name": "Pakistan", "confidence": "unverified_estimate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Pakistan additional tax (FTC applied, unverified estimate) -16.5%",
+      "effectiveTakeHomePct": 53.5, "effectiveTaxPct": 46.5,
+      "detailPage": "https://chamtax.com/pakistan-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "kh", "name": "Cambodia", "confidence": "unverified_estimate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Cambodia additional tax (no clear basis found)",
+      "effectiveTakeHomePct": 70, "effectiveTaxPct": 30,
+      "detailPage": "https://chamtax.com/cambodia-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "mn", "name": "Mongolia", "confidence": "unverified_estimate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Mongolia additional tax (FTC applied, unverified estimate) -10.0%",
+      "effectiveTakeHomePct": 60, "effectiveTaxPct": 40,
+      "detailPage": "https://chamtax.com/mongolia-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "la", "name": "Laos", "confidence": "unverified_estimate",
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Laos additional tax (no FTC, unverified estimate) -5.0%",
+      "effectiveTakeHomePct": 65, "effectiveTaxPct": 35,
+      "detailPage": "https://chamtax.com/laos-resident-us-lottery-tax.html"
+    }
+  ]
+}
