@@ -1,22 +1,43 @@
 code,name,confidence,effectiveTakeHomePct,effectiveTaxPct,usFederalTax,homeCountryTax,detailPage
-kr,South Korea,verified,53.5,46.5,US Federal Tax (nonresident) -30%,Korea additional tax (FTC applied) -16.5%,https://chamtax.com/korea-resident-us-lottery-tax.html
-us,United States,verified,58.3,41.7,US Federal Tax -37%,Average State Tax -4.72%,https://chamtax.com
-vn,Vietnam,verified,70,30,US Federal Tax (nonresident) -30%,Vietnam additional tax (FTC applied) — offset by tax credit,https://chamtax.com/vietnam-resident-us-lottery-tax.html
-cn,China,verified,70,30,US Federal Tax (nonresident) -30%,China additional tax (FTC applied) — offset by tax credit,https://chamtax.com/china-resident-us-lottery-tax.html
-in,India,verified,61,39,US Federal Tax (nonresident) -30%,India additional tax (FTC applied) -9.0%,https://chamtax.com/india-resident-us-lottery-tax.html
-id,Indonesia,verified,70,30,US Federal Tax (nonresident) -30%,Indonesia additional tax (FTC applied) — offset by tax credit,https://chamtax.com/indonesia-resident-us-lottery-tax.html
-ph,Philippines,approximate,65,35,US Federal Tax (nonresident) -30%,"Philippines additional tax (FTC applied, approximate) -5.0%",https://chamtax.com/philippines-resident-us-lottery-tax.html
-th,Thailand,unverified_estimate,65,35,US Federal Tax (nonresident) -30%,"Thailand additional tax (FTC applied, unverified estimate) -5.0%",https://chamtax.com/thailand-resident-us-lottery-tax.html
-jp,Japan,verified,70,30,US Federal Tax (nonresident) -30%,Japan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/japan-resident-us-lottery-tax.html
-ru,Russia,verified_treaty_suspended,48,52,US Federal Tax (nonresident) -30%,"Russia additional tax (FTC believed unavailable, treaty suspended) -22.0%",https://chamtax.com/russia-resident-us-lottery-tax.html
-np,Nepal,verified,70,30,US Federal Tax (nonresident) -30%,Nepal additional tax (FTC applied) — offset by tax credit,https://chamtax.com/nepal-resident-us-lottery-tax.html
-lk,Sri Lanka,approximate,64,36,US Federal Tax (nonresident) -30%,"Sri Lanka additional tax (FTC applied, unverified estimate) -6.0%",https://chamtax.com/srilanka-resident-us-lottery-tax.html
-uz,Uzbekistan,verified,70,30,US Federal Tax (nonresident) -30%,Uzbekistan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/uzbekistan-resident-us-lottery-tax.html
-kz,Kazakhstan,verified,70,30,US Federal Tax (nonresident) -30%,Kazakhstan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/kazakhstan-resident-us-lottery-tax.html
-kg,Kyrgyzstan,verified,70,30,US Federal Tax (nonresident) -30%,Kyrgyzstan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/kyrgyzstan-resident-us-lottery-tax.html
-mm,Myanmar,approximate,70,30,US Federal Tax (nonresident) -30%,"Myanmar additional tax (FTC applied, approximate) — offset by tax credit",https://chamtax.com/myanmar-resident-us-lottery-tax.html
+us,United States,verified,58.28,41.72,US Federal Tax -37%,United States additional tax (FTC applied) -4.72%,https://chamtax.com
+kr,South Korea,verified,53.55,46.45,US Federal Tax (nonresident) -30%,South Korea additional tax (FTC applied) -16.5%,https://chamtax.com/korea-resident-us-lottery-tax.html
+au,Australia,verified,70,30,US Federal Tax (nonresident) -30%,Australia additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-australians.html
 bd,Bangladesh,verified,70,30,US Federal Tax (nonresident) -30%,Bangladesh additional tax (FTC applied) — offset by tax credit,https://chamtax.com/bangladesh-resident-us-lottery-tax.html
-pk,Pakistan,unverified_estimate,53.5,46.5,US Federal Tax (nonresident) -30%,"Pakistan additional tax (FTC applied, unverified estimate) -16.5%",https://chamtax.com/pakistan-resident-us-lottery-tax.html
-kh,Cambodia,unverified_estimate,70,30,US Federal Tax (nonresident) -30%,Cambodia additional tax (no clear basis found),https://chamtax.com/cambodia-resident-us-lottery-tax.html
+ca,Canada,verified,70,30,US Federal Tax (nonresident) -30%,Canada additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-canadians.html
+cn,China,verified,70,30,US Federal Tax (nonresident) -30%,China additional tax (FTC applied) — offset by tax credit,https://chamtax.com/china-resident-us-lottery-tax.html
+dk,Denmark,verified,42.93,57.07,US Federal Tax (nonresident) -30%,Denmark additional tax (FTC applied) -27.1%,https://chamtax.com/denmark-resident-us-lottery-tax.html
+de,Germany,verified,70,30,US Federal Tax (nonresident) -30%,Germany additional tax (FTC applied) — offset by tax credit,https://chamtax.com/germany-resident-us-lottery-tax.html
+fi,Finland,verified,53.83,46.17,US Federal Tax (nonresident) -30%,Finland additional tax (FTC applied) -16.2%,https://chamtax.com/finland-resident-us-lottery-tax.html
+fr,France,verified,70,30,US Federal Tax (nonresident) -30%,France additional tax (FTC applied) — offset by tax credit,https://chamtax.com/france-resident-us-lottery-tax.html
+hk,Hong Kong,verified,70,30,US Federal Tax (nonresident) -30%,Hong Kong additional tax (FTC applied) — offset by tax credit,https://chamtax.com/hongkong-resident-us-lottery-tax.html
+id,Indonesia,verified,70,30,US Federal Tax (nonresident) -30%,Indonesia additional tax (FTC applied) — offset by tax credit,https://chamtax.com/indonesia-resident-us-lottery-tax.html
+ie,Ireland,verified,70,30,US Federal Tax (nonresident) -30%,Ireland additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-irish-residents.html
+in,India,verified,61,39,US Federal Tax (nonresident) -30%,India additional tax (FTC applied) -9.0%,https://chamtax.com/india-resident-us-lottery-tax.html
+it,Italy,approximate,52.77,47.23,US Federal Tax (nonresident) -30%,"Italy additional tax (FTC applied, approximate) -17.2%",https://chamtax.com/italy-resident-us-lottery-tax.html
+jp,Japan,verified,70,30,US Federal Tax (nonresident) -30%,Japan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/japan-resident-us-lottery-tax.html
+kg,Kyrgyzstan,verified,70,30,US Federal Tax (nonresident) -30%,Kyrgyzstan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/kyrgyzstan-resident-us-lottery-tax.html
+kh,Cambodia,unverified_estimate,70,30,US Federal Tax (nonresident) -30%,"Cambodia additional tax — no clear statutory basis found (treated as ₩0 pending clarification, unverified estimate)",https://chamtax.com/cambodia-resident-us-lottery-tax.html
+kz,Kazakhstan,verified,70,30,US Federal Tax (nonresident) -30%,Kazakhstan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/kazakhstan-resident-us-lottery-tax.html
+la,Laos,unverified_estimate,65,35,US Federal Tax (nonresident) -30%,"Laos additional tax (no FTC — stacks on top of US withholding, unverified estimate) -5.0%",https://chamtax.com/laos-resident-us-lottery-tax.html
+lk,Sri Lanka,approximate,64,36,US Federal Tax (nonresident) -30%,"Sri Lanka additional tax (FTC applied, approximate) -6.0%",https://chamtax.com/srilanka-resident-us-lottery-tax.html
+mm,Myanmar,approximate,70,30,US Federal Tax (nonresident) -30%,"Myanmar additional tax (FTC applied, approximate) — offset by tax credit",https://chamtax.com/myanmar-resident-us-lottery-tax.html
 mn,Mongolia,unverified_estimate,60,40,US Federal Tax (nonresident) -30%,"Mongolia additional tax (FTC applied, unverified estimate) -10.0%",https://chamtax.com/mongolia-resident-us-lottery-tax.html
-la,Laos,unverified_estimate,65,35,US Federal Tax (nonresident) -30%,"Laos additional tax (no FTC, unverified estimate) -5.0%",https://chamtax.com/laos-resident-us-lottery-tax.html
+mx,Mexico,approximate,65,35,US Federal Tax (nonresident) -30%,"Mexico additional tax (FTC applied, approximate) -5.0%",https://chamtax.com/mexico-resident-us-lottery-tax.html
+my,Malaysia,verified,70,30,US Federal Tax (nonresident) -30%,Malaysia additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-malaysians.html
+nl,Netherlands,verified,32.2,67.8,US Federal Tax (nonresident) -30%,Netherlands additional tax (no FTC — stacks on top of US withholding) -37.8%,https://chamtax.com/netherlands-resident-us-lottery-tax.html
+no,Norway,verified,70,30,US Federal Tax (nonresident) -30%,Norway additional tax (FTC applied) — offset by tax credit,https://chamtax.com/norway-resident-us-lottery-tax.html
+np,Nepal,verified,70,30,US Federal Tax (nonresident) -30%,Nepal additional tax (FTC applied) — offset by tax credit,https://chamtax.com/nepal-resident-us-lottery-tax.html
+nz,New Zealand,verified,70,30,US Federal Tax (nonresident) -30%,New Zealand additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-nz-residents.html
+ph,Philippines,approximate,65,35,US Federal Tax (nonresident) -30%,"Philippines additional tax (FTC applied, approximate) -5.0%",https://chamtax.com/philippines-resident-us-lottery-tax.html
+pk,Pakistan,unverified_estimate,53.5,46.5,US Federal Tax (nonresident) -30%,"Pakistan additional tax (FTC applied, unverified estimate) -16.5%",https://chamtax.com/pakistan-resident-us-lottery-tax.html
+pl,Poland,approximate,64,36,US Federal Tax (nonresident) -30%,"Poland additional tax (FTC applied, approximate) -6.0%",https://chamtax.com/poland-resident-us-lottery-tax.html
+ru,Russia,verified_treaty_suspended,48,52,US Federal Tax (nonresident) -30%,Russia additional tax (no FTC — stacks on top of US withholding) -22.0%,https://chamtax.com/russia-resident-us-lottery-tax.html
+sg,Singapore,verified,70,30,US Federal Tax (nonresident) -30%,Singapore additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-singapore-residents.html
+se,Sweden,verified,70,30,US Federal Tax (nonresident) -30%,Sweden additional tax (FTC applied) — offset by tax credit,https://chamtax.com/sweden-resident-us-lottery-tax.html
+th,Thailand,unverified_estimate,65,35,US Federal Tax (nonresident) -30%,"Thailand additional tax (FTC applied, unverified estimate) -5.0%",https://chamtax.com/thailand-resident-us-lottery-tax.html
+tr,Turkey,verified,50,50,US Federal Tax (nonresident) -30%,Turkey additional tax (FTC applied) -20.0%,https://chamtax.com/turkey-resident-us-lottery-tax.html
+tw,Taiwan,verified,70,30,US Federal Tax (nonresident) -30%,Taiwan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/taiwan-resident-us-lottery-tax.html
+uk,United Kingdom,verified,70,30,US Federal Tax (nonresident) -30%,United Kingdom additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-uk-residents.html
+uz,Uzbekistan,verified,70,30,US Federal Tax (nonresident) -30%,Uzbekistan additional tax (FTC applied) — offset by tax credit,https://chamtax.com/uzbekistan-resident-us-lottery-tax.html
+vn,Vietnam,verified,70,30,US Federal Tax (nonresident) -30%,Vietnam additional tax (FTC applied) — offset by tax credit,https://chamtax.com/vietnam-resident-us-lottery-tax.html
+za,South Africa,verified,70,30,US Federal Tax (nonresident) -30%,South Africa additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-south-africans.html

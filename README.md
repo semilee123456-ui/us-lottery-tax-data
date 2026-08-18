@@ -1,8 +1,8 @@
 # US Lottery Tax Data
 
-How much of a US Powerball / Mega Millions jackpot a winner actually keeps, broken down by 21 countries of residence — as an open, reusable dataset.
+How much of a US Powerball / Mega Millions jackpot a winner actually keeps, broken down by 42 countries of residence — as an open, reusable dataset.
 
-This is the raw data behind [chamtax.com](https://chamtax.com), a US lottery tax calculator that supports 21 residency profiles and 26 languages.
+This is the raw data behind [chamtax.com](https://chamtax.com), a US lottery tax calculator that supports 42 residency profiles and 35 languages.
 
 ## Why this exists
 
@@ -15,11 +15,11 @@ Winning a US lottery jackpot triggers a flat 30% US federal withholding for non-
 
 ## Methodology
 
-Every row is generated directly from the same tax engine that runs [chamtax.com](https://chamtax.com) (`calcTakeHome()`), not hand-transcribed — so the numbers here match what the live calculator shows. Effective percentages are computed for a large lump-sum jackpot scenario (~$100M USD) to reflect realistic progressive-bracket behavior where applicable.
+Every row is generated directly from the same tax engine that runs [chamtax.com](https://chamtax.com) (`calcTakeHome()`), not hand-transcribed — so the numbers here match what the live calculator shows. Effective percentages are computed for a large lump-sum jackpot scenario (~$100M USD) to reflect realistic progressive-bracket behavior where applicable. Three countries (Netherlands, Russia, Laos) apply zero Foreign Tax Credit in the engine — their home-country tax stacks fully on top of the 30% US withholding instead of being offset by it; this is called out explicitly in each of those rows' `homeCountryTax` field.
 
 ## Confidence levels
 
-Not all 21 countries have equally solid sourcing. Every row is labeled:
+Not all 42 countries have equally solid sourcing. Every row is labeled:
 
 | Level | Meaning |
 |---|---|
@@ -32,7 +32,7 @@ Not all 21 countries have equally solid sourcing. Every row is labeled:
 
 ## Live calculator
 
-For an interactive version — including US state-level breakdowns, annuity-vs-lump-sum comparison, and 26 languages — see **[chamtax.com](https://chamtax.com)**.
+For an interactive version — including US state-level breakdowns, annuity-vs-lump-sum comparison, and 35 languages — see **[chamtax.com](https://chamtax.com)**.
 
 ## License
 
