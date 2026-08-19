@@ -1,8 +1,8 @@
 # US Lottery Tax Data
 
-How much of a US Powerball / Mega Millions jackpot a winner actually keeps, broken down by 42 countries of residence — as an open, reusable dataset.
+**Open dataset, CC0-licensed** — free to copy, redistribute, remix, and cite, no attribution required. How much of a US Powerball / Mega Millions jackpot a winner actually keeps, broken down by 42 countries of residence.
 
-This is the raw data behind [chamtax.com](https://chamtax.com), a US lottery tax calculator that supports 42 residency profiles and 35 languages.
+This is the raw data behind [chamtax.com](https://chamtax.com), a US lottery tax calculator that supports 42 residency profiles and 35 languages. See also the [full public dataset hub](https://chamtax.com/lottery-tax-data-hub.html) (this dataset plus a companion US state-by-state tax rate dataset, both as CSV/JSON) and the [Kaggle mirror](https://www.kaggle.com/datasets/chamtax/us-lottery-jackpot-tax-by-country).
 
 ## Why this exists
 
