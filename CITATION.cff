@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "US Lottery Tax Data: Powerball & Mega Millions Take-Home by Country of Residence"
+type: dataset
+authors:
+  - name: "ChamTax"
+    website: "https://chamtax.com"
+repository-code: "https://github.com/semilee123456-ui/us-lottery-tax-data"
+url: "https://chamtax.com"
+abstract: >-
+  How much of a US Powerball or Mega Millions jackpot a non-US winner
+  actually keeps after tax, broken down by 42 countries of tax residence.
+  Each row combines the flat 30% US federal withholding on nonresident
+  aliens (IRC 871(a)) with that country's own tax treatment of the
+  winnings (including any Foreign Tax Credit offset), computed by the
+  same calculation engine that powers the interactive calculator at
+  chamtax.com. Confidence levels (verified / approximate / unverified
+  estimate) are included per row.
+keywords:
+  - lottery
+  - taxation
+  - powerball
+  - mega-millions
+  - open-data
+  - personal-finance
+license: CC0-1.0
+version: 1.0.0
+date-released: "2026-08-19"
