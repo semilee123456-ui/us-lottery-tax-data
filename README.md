@@ -15,7 +15,7 @@ Winning a US lottery jackpot triggers a flat 30% US federal withholding for non-
 
 ## Methodology
 
-Every row is generated directly from the same tax engine that runs [chamtax.com](https://chamtax.com) (`calcTakeHome()`), not hand-transcribed — so the numbers here match what the live calculator shows. Effective percentages are computed for a large lump-sum jackpot scenario (~$100M USD) to reflect realistic progressive-bracket behavior where applicable. Three countries (Netherlands, Russia, Laos) apply zero Foreign Tax Credit in the engine — their home-country tax stacks fully on top of the 30% US withholding instead of being offset by it; this is called out explicitly in each of those rows' `homeCountryTax` field.
+Every row is generated directly from the same tax engine that runs [chamtax.com](https://chamtax.com) (`calcTakeHome()`), not hand-transcribed — so the numbers here match what the live calculator shows. Effective percentages are computed for a large lump-sum jackpot scenario (~$100M USD) to reflect realistic progressive-bracket behavior where applicable. Seven countries (Netherlands, Russia, Laos, Indonesia, Uzbekistan, Kyrgyzstan, Myanmar) apply zero Foreign Tax Credit in the engine — their home-country tax stacks fully on top of the 30% US withholding instead of being offset by it; this is called out explicitly in each of those rows' `homeCountryTax` field.
 
 ## Confidence levels
 

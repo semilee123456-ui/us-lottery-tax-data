@@ -11,7 +11,7 @@
     "approximate": "Rate is a reasonable approximation from available secondary sources, not a primary legal citation.",
     "unverified_estimate": "No authoritative source was found; this is a best-effort estimate and should not be relied on for filing."
   },
-  "lastUpdated": "2026-08-18",
+  "lastUpdated": "2026-08-21",
   "source": "https://chamtax.com",
   "countries": [
     {
@@ -128,10 +128,10 @@
       "code": "id",
       "name": "Indonesia",
       "confidence": "verified",
-      "effectiveTakeHomePct": 70,
-      "effectiveTaxPct": 30,
+      "effectiveTakeHomePct": 45,
+      "effectiveTaxPct": 55,
       "usFederalTax": "US Federal Tax (nonresident) -30%",
-      "homeCountryTax": "Indonesia additional tax (FTC applied) — offset by tax credit",
+      "homeCountryTax": "Indonesia additional tax (no FTC — stacks on top of US withholding) -25.0%",
       "detailPage": "https://chamtax.com/indonesia-resident-us-lottery-tax.html"
     },
     {
@@ -178,10 +178,10 @@
       "code": "kg",
       "name": "Kyrgyzstan",
       "confidence": "verified",
-      "effectiveTakeHomePct": 70,
-      "effectiveTaxPct": 30,
+      "effectiveTakeHomePct": 60,
+      "effectiveTaxPct": 40,
       "usFederalTax": "US Federal Tax (nonresident) -30%",
-      "homeCountryTax": "Kyrgyzstan additional tax (FTC applied) — offset by tax credit",
+      "homeCountryTax": "Kyrgyzstan additional tax (no FTC — stacks on top of US withholding) -10.0%",
       "detailPage": "https://chamtax.com/kyrgyzstan-resident-us-lottery-tax.html"
     },
     {
@@ -228,10 +228,10 @@
       "code": "mm",
       "name": "Myanmar",
       "confidence": "approximate",
-      "effectiveTakeHomePct": 70,
-      "effectiveTaxPct": 30,
+      "effectiveTakeHomePct": 45,
+      "effectiveTaxPct": 55,
       "usFederalTax": "US Federal Tax (nonresident) -30%",
-      "homeCountryTax": "Myanmar additional tax (FTC applied, approximate) — offset by tax credit",
+      "homeCountryTax": "Myanmar additional tax (no FTC — stacks on top of US withholding, approximate) -25.0%",
       "detailPage": "https://chamtax.com/myanmar-resident-us-lottery-tax.html"
     },
     {
@@ -408,10 +408,10 @@
       "code": "uz",
       "name": "Uzbekistan",
       "confidence": "verified",
-      "effectiveTakeHomePct": 70,
-      "effectiveTaxPct": 30,
+      "effectiveTakeHomePct": 58,
+      "effectiveTaxPct": 42,
       "usFederalTax": "US Federal Tax (nonresident) -30%",
-      "homeCountryTax": "Uzbekistan additional tax (FTC applied) — offset by tax credit",
+      "homeCountryTax": "Uzbekistan additional tax (no FTC — stacks on top of US withholding) -12.0%",
       "detailPage": "https://chamtax.com/uzbekistan-resident-us-lottery-tax.html"
     },
     {
