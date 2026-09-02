@@ -11,7 +11,7 @@
     "approximate": "Rate is a reasonable approximation from available secondary sources, not a primary legal citation.",
     "unverified_estimate": "No authoritative source was found; this is a best-effort estimate and should not be relied on for filing."
   },
-  "lastUpdated": "2026-08-21",
+  "lastUpdated": "2026-09-02",
   "source": "https://chamtax.com",
   "countries": [
     {
@@ -433,6 +433,96 @@
       "usFederalTax": "US Federal Tax (nonresident) -30%",
       "homeCountryTax": "South Africa additional tax (FTC applied) — offset by tax credit",
       "detailPage": "https://chamtax.com/us-lottery-tax-for-south-africans.html"
+    },
+    {
+      "code": "br",
+      "name": "Brazil",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 70,
+      "effectiveTaxPct": 30,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Brazil additional tax (FTC applied) — offset by tax credit",
+      "detailPage": "https://chamtax.com/brazil-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "es",
+      "name": "Spain",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 53,
+      "effectiveTaxPct": 47,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Spain additional tax (FTC applied) -17.0%",
+      "detailPage": "https://chamtax.com/spain-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "ch",
+      "name": "Switzerland",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 30.9,
+      "effectiveTaxPct": 69.1,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Switzerland additional tax (no FTC — stacks on top of US withholding) -39.1%",
+      "detailPage": "https://chamtax.com/switzerland-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "ae",
+      "name": "United Arab Emirates",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 70,
+      "effectiveTaxPct": 30,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "United Arab Emirates additional tax — no personal income tax regime",
+      "detailPage": "https://chamtax.com/united-arab-emirates-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "sa",
+      "name": "Saudi Arabia",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 70,
+      "effectiveTaxPct": 30,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Saudi Arabia additional tax — no personal income tax regime",
+      "detailPage": "https://chamtax.com/saudi-arabia-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "eg",
+      "name": "Egypt",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 70,
+      "effectiveTaxPct": 30,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Egypt additional tax (FTC applied) — offset by tax credit",
+      "detailPage": "https://chamtax.com/egypt-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "il",
+      "name": "Israel",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 65,
+      "effectiveTaxPct": 35,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Israel additional tax (FTC applied) -5.0%",
+      "detailPage": "https://chamtax.com/israel-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "ua",
+      "name": "Ukraine",
+      "confidence": "verified",
+      "effectiveTakeHomePct": 65,
+      "effectiveTaxPct": 35,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Ukraine additional tax (partial FTC — military levy portion not creditable) -5.0%",
+      "detailPage": "https://chamtax.com/ukraine-resident-us-lottery-tax.html"
+    },
+    {
+      "code": "ng",
+      "name": "Nigeria",
+      "confidence": "unverified_estimate",
+      "effectiveTakeHomePct": 70,
+      "effectiveTaxPct": 30,
+      "usFederalTax": "US Federal Tax (nonresident) -30%",
+      "homeCountryTax": "Nigeria additional tax (FTC applied, unverified estimate) — offset by tax credit",
+      "detailPage": "https://chamtax.com/us-lottery-tax-for-nigerians.html"
     }
   ]
 }

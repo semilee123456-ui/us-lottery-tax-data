@@ -9,7 +9,7 @@ repository-code: "https://github.com/semilee123456-ui/us-lottery-tax-data"
 url: "https://chamtax.com"
 abstract: >-
   How much of a US Powerball or Mega Millions jackpot a non-US winner
-  actually keeps after tax, broken down by 42 countries of tax residence.
+  actually keeps after tax, broken down by 51 countries of tax residence.
   Each row combines the flat 30% US federal withholding on nonresident
   aliens (IRC 871(a)) with that country's own tax treatment of the
   winnings (including any Foreign Tax Credit offset), computed by the
@@ -24,5 +24,5 @@ keywords:
   - open-data
   - personal-finance
 license: CC0-1.0
-version: 1.0.1
-date-released: "2026-08-21"
+version: 1.1.0
+date-released: "2026-09-02"

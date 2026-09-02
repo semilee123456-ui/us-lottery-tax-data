@@ -1,8 +1,8 @@
 # US Lottery Tax Data
 
-**Open dataset, CC0-licensed** — free to copy, redistribute, remix, and cite, no attribution required. How much of a US Powerball / Mega Millions jackpot a winner actually keeps, broken down by 42 countries of residence.
+**Open dataset, CC0-licensed** — free to copy, redistribute, remix, and cite, no attribution required. How much of a US Powerball / Mega Millions jackpot a winner actually keeps, broken down by 51 countries of residence.
 
-This is the raw data behind [chamtax.com](https://chamtax.com), a US lottery tax calculator that supports 42 residency profiles and 35 languages. See also the [full public dataset hub](https://chamtax.com/lottery-tax-data-hub.html) (this dataset plus a companion US state-by-state tax rate dataset, both as CSV/JSON) and the [Kaggle mirror](https://www.kaggle.com/datasets/chamtax/us-lottery-jackpot-tax-by-country).
+This is the raw data behind [chamtax.com](https://chamtax.com), a US lottery tax calculator that supports 51 residency profiles and 36 languages. See also the [full public dataset hub](https://chamtax.com/lottery-tax-data-hub.html) (this dataset plus a companion US state-by-state tax rate dataset, both as CSV/JSON) and the [Kaggle mirror](https://www.kaggle.com/datasets/chamtax/us-lottery-jackpot-tax-by-country).
 
 ## Why this exists
 
@@ -15,11 +15,11 @@ Winning a US lottery jackpot triggers a flat 30% US federal withholding for non-
 
 ## Methodology
 
-Every row is generated directly from the same tax engine that runs [chamtax.com](https://chamtax.com) (`calcTakeHome()`), not hand-transcribed — so the numbers here match what the live calculator shows. Effective percentages are computed for a large lump-sum jackpot scenario (~$100M USD) to reflect realistic progressive-bracket behavior where applicable. Seven countries (Netherlands, Russia, Laos, Indonesia, Uzbekistan, Kyrgyzstan, Myanmar) apply zero Foreign Tax Credit in the engine — their home-country tax stacks fully on top of the 30% US withholding instead of being offset by it; this is called out explicitly in each of those rows' `homeCountryTax` field.
+Every row is generated directly from the same tax engine that runs [chamtax.com](https://chamtax.com) (`calcTakeHome()`), not hand-transcribed — so the numbers here match what the live calculator shows. Effective percentages are computed for a large lump-sum jackpot scenario (~$100M USD) to reflect realistic progressive-bracket behavior where applicable. Eight countries (Netherlands, Russia, Laos, Indonesia, Uzbekistan, Kyrgyzstan, Myanmar, Switzerland) apply zero Foreign Tax Credit in the engine — their home-country tax stacks fully on top of the 30% US withholding instead of being offset by it; this is called out explicitly in each of those rows' `homeCountryTax` field. Two countries (United Arab Emirates, Saudi Arabia) have no personal income tax at all, so there's no FTC question — nothing is owed beyond the US withholding. Ukraine's residual is a partial-FTC case: the treaty credit covers its 18% personal income tax but not the separate 5% military levy.
 
 ## Confidence levels
 
-Not all 42 countries have equally solid sourcing. Every row is labeled:
+Not all 51 countries have equally solid sourcing. Every row is labeled:
 
 | Level | Meaning |
 |---|---|
@@ -32,7 +32,7 @@ Not all 42 countries have equally solid sourcing. Every row is labeled:
 
 ## Live calculator
 
-For an interactive version — including US state-level breakdowns, annuity-vs-lump-sum comparison, and 35 languages — see **[chamtax.com](https://chamtax.com)**.
+For an interactive version — including US state-level breakdowns, annuity-vs-lump-sum comparison, and 36 languages — see **[chamtax.com](https://chamtax.com)**.
 
 ## License
 

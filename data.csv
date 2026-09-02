@@ -41,3 +41,12 @@ uk,United Kingdom,verified,70,30,US Federal Tax (nonresident) -30%,United Kingdo
 uz,Uzbekistan,verified,58,42,US Federal Tax (nonresident) -30%,Uzbekistan additional tax (no FTC — stacks on top of US withholding) -12.0%,https://chamtax.com/uzbekistan-resident-us-lottery-tax.html
 vn,Vietnam,verified,70,30,US Federal Tax (nonresident) -30%,Vietnam additional tax (FTC applied) — offset by tax credit,https://chamtax.com/vietnam-resident-us-lottery-tax.html
 za,South Africa,verified,70,30,US Federal Tax (nonresident) -30%,South Africa additional tax (FTC applied) — offset by tax credit,https://chamtax.com/us-lottery-tax-for-south-africans.html
+br,Brazil,verified,70,30,US Federal Tax (nonresident) -30%,Brazil additional tax (FTC applied) — offset by tax credit,https://chamtax.com/brazil-resident-us-lottery-tax.html
+es,Spain,verified,53,47,US Federal Tax (nonresident) -30%,Spain additional tax (FTC applied) -17.0%,https://chamtax.com/spain-resident-us-lottery-tax.html
+ch,Switzerland,verified,30.9,69.1,US Federal Tax (nonresident) -30%,Switzerland additional tax (no FTC — stacks on top of US withholding) -39.1%,https://chamtax.com/switzerland-resident-us-lottery-tax.html
+ae,United Arab Emirates,verified,70,30,US Federal Tax (nonresident) -30%,United Arab Emirates additional tax — no personal income tax regime,https://chamtax.com/united-arab-emirates-resident-us-lottery-tax.html
+sa,Saudi Arabia,verified,70,30,US Federal Tax (nonresident) -30%,Saudi Arabia additional tax — no personal income tax regime,https://chamtax.com/saudi-arabia-resident-us-lottery-tax.html
+eg,Egypt,verified,70,30,US Federal Tax (nonresident) -30%,Egypt additional tax (FTC applied) — offset by tax credit,https://chamtax.com/egypt-resident-us-lottery-tax.html
+il,Israel,verified,65,35,US Federal Tax (nonresident) -30%,Israel additional tax (FTC applied) -5.0%,https://chamtax.com/israel-resident-us-lottery-tax.html
+ua,Ukraine,verified,65,35,US Federal Tax (nonresident) -30%,Ukraine additional tax (partial FTC — military levy portion not creditable) -5.0%,https://chamtax.com/ukraine-resident-us-lottery-tax.html
+ng,Nigeria,unverified_estimate,70,30,US Federal Tax (nonresident) -30%,"Nigeria additional tax (FTC applied, unverified estimate) — offset by tax credit",https://chamtax.com/us-lottery-tax-for-nigerians.html
